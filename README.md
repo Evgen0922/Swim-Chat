@@ -8,7 +8,7 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 
 ### IMPORTANT:
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+Для сборки замените google-services.json на свой и выполните команды:
 
 ```
 flutter pub get
