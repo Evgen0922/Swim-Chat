@@ -1,6 +1,6 @@
-# Swim Story
+# Swim Story 
 
-A new Flutter project.
+Приложение для пловцов, привязано к Firebase
 
 ## Getting Started
 
